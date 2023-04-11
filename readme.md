@@ -13,3 +13,7 @@ Sample project using Cloud Build and Kubernetes Engine
 ## Known Issues
 
 ## Contact
+
+## Help
+
+<https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build>
